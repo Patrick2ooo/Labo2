@@ -3,4 +3,4 @@ project(Labo2 C)
 
 set(CMAKE_C_STANDARD 17)
 
-add_executable(Labo2 main.c listes_dynamiques.h)
+add_executable(Labo2 main.c listes_dynamiques.h listes_dynamiques.c)
